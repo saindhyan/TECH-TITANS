@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/TECH-TITANS/static/css/main.ed2caadc.css",
-    "main.js": "/TECH-TITANS/static/js/main.f24db0d6.js",
+    "main.js": "/TECH-TITANS/static/js/main.10ddd5c6.js",
     "static/js/453.ad7768ec.chunk.js": "/TECH-TITANS/static/js/453.ad7768ec.chunk.js",
     "static/media/logo.svg": "/TECH-TITANS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/TECH-TITANS/index.html",
     "main.ed2caadc.css.map": "/TECH-TITANS/static/css/main.ed2caadc.css.map",
-    "main.f24db0d6.js.map": "/TECH-TITANS/static/js/main.f24db0d6.js.map",
+    "main.10ddd5c6.js.map": "/TECH-TITANS/static/js/main.10ddd5c6.js.map",
     "453.ad7768ec.chunk.js.map": "/TECH-TITANS/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed2caadc.css",
-    "static/js/main.f24db0d6.js"
+    "static/js/main.10ddd5c6.js"
   ]
 }
