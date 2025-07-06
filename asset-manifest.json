@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TECH-TITANS/static/css/main.3326071a.css",
-    "main.js": "/TECH-TITANS/static/js/main.e8dd1888.js",
+    "main.css": "/TECH-TITANS/static/css/main.921b3d7b.css",
+    "main.js": "/TECH-TITANS/static/js/main.cfc096a1.js",
     "static/js/453.ad7768ec.chunk.js": "/TECH-TITANS/static/js/453.ad7768ec.chunk.js",
     "static/media/logo.svg": "/TECH-TITANS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/TECH-TITANS/index.html",
-    "main.3326071a.css.map": "/TECH-TITANS/static/css/main.3326071a.css.map",
-    "main.e8dd1888.js.map": "/TECH-TITANS/static/js/main.e8dd1888.js.map",
+    "main.921b3d7b.css.map": "/TECH-TITANS/static/css/main.921b3d7b.css.map",
+    "main.cfc096a1.js.map": "/TECH-TITANS/static/js/main.cfc096a1.js.map",
     "453.ad7768ec.chunk.js.map": "/TECH-TITANS/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3326071a.css",
-    "static/js/main.e8dd1888.js"
+    "static/css/main.921b3d7b.css",
+    "static/js/main.cfc096a1.js"
   ]
 }
